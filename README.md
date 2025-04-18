@@ -27,7 +27,7 @@
 
 ### ⚡ About Me
 
-<img align="right" height="220" width="300" src="https://media.giphy.com/media/3o7btXIelzs8nBnznq/giphy.gif" />
+<img align="right" height="220" width="300" src="https://i.imgur.com/q2murwJ.gif" />
 
 Hey there! I'm a tech enthusiast operating at the intersection of AI and computer vision. I transform complex problems into elegant algorithms – debugging reality one line of code at a time.
 
