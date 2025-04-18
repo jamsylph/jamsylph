@@ -1,5 +1,3 @@
-# Hello, folks! I am...
-
 <h1 align="center">Jamsylph</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true&duration=1000&pause=200"></a>
@@ -9,11 +7,20 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="girl-coding" />
 </div>
 
+## Connect with me
+
+<br><br>
+<a href="https://linkedin.com/in/jamsylph" target="_blank">
+  <img align="left" alt="LinkedIn" width="130px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jamsylph" target="_blank">
+  <img align="left" alt="GitHub" width="130px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br><br><br>
+
 ## About me...
 
-<table>
-<tr>
-<td width="70%">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="360px"/>
 
 - 🔮 **Algorithm Engineer** specializing in AI and computer vision solutions
 - 💻 Love taking complex problems and making them make sense with code
@@ -22,13 +29,6 @@
 - 📊 Engineering digital solutions that transcend conventional limitations
 - ⚡ Think of my work as debugging the world, one line at a time!
 
-</td>
-<td width="30%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="data-visualization" align="right" />
-</td>
-</tr>
-</table>
-
 ## 👨‍💻 Tech Stack
 
 <p align="left">
@@ -36,10 +36,6 @@
     <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,mysql,vscode,linux,git,docker,vim,bash" />
   </a>
 </p>
-
-<table>
-<tr>
-<td>
 
 ### AI & Machine Learning:
 <p>
@@ -55,33 +51,12 @@
   <img src="https://img.shields.io/badge/Data_Analysis-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
 </p>
 
-</td>
-<td>
+## 📊 GitHub Stats
 
-### Connect with me:
-<div>
-  <a href="https://linkedin.com/in/jamsylph" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/jamsylph" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
-## GitHub Stats
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsylph&hide_border=true&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=radical" />
+</p>
 
 ## 🐍 Contribution Graph
 
@@ -98,13 +73,9 @@
 - Developing computer vision solutions
 - Optimizing neural networks for real-world applications
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-  <h3>Thanks for visiting!</h3>
-</div>
-
-![](https://komarev.com/ghpvc/?username=jamsylph&color=00FFFF)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://komarev.com/ghpvc/?username=jamsylph&color=00FFFF" />
+</p>
 
 ⭐️ From [jamsylph](https://github.com/jamsylph)
