@@ -63,36 +63,27 @@
   <h1>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 </div>
 
-<h3 align="center">Programming Languages & Frameworks</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
-</p>
-
-<h3 align="center">AI & Machine Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
-</p>
-
-<h3 align="center">Tools & Utilities</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
-</p>
+<div align="center">
+  <h4>Languages • Frameworks • Tools • Technologies</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />
+  </p>
+</div>
 
 <div align="center">
   <h1>📊 GitHub Stats</h1>
