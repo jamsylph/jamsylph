@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamsylph</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true&duration=1500&pause=300"></a>
 </p>
 
 <div align="center">
