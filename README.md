@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Let's+stay+curious+and+take+action+for+tomorrow&center=true&duration=1000&pause=200&font=Fira%20Code"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=450&height=45&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Stay+curious%2C+take+action&center=true&duration=1000&pause=200&font=Fira%20Code"></a>
 </p>
 
 <div align="center">
@@ -85,16 +85,6 @@
   <a href="https://github.com/jamsylph">
     <img src="https://img.shields.io/badge/CODE TIME-expanding-FF00FF?style=for-the-badge&logo=wakatime" alt="code time" />
   </a>
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ## Current projects
