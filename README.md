@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=LOADING+AWESOME+CODER...+98%25+COMPLETE;Ctrl%2BAlt%2BJam:+Code+genius+detected;Runtime+Error:+Too+much+creativity;Debugger+tip:+Try+being+less+brilliant&font=Fira+Code&center=true&width=1200&height=180&duration=3500&pause=1000&color=00FFFF&size=36)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initiating+neural+interface...;Welcome+to+my+digital+realm;Where+reality+meets+imagination;The+future+is+already+here&font=Fira+Code&center=true&width=1200&height=180&duration=3500&pause=1000&color=00FFFF&size=36)](https://git.io/typing-svg)
   
 </div>
 
@@ -27,7 +27,7 @@
 
 ### ⚡ About Me
 
-<img align="right" height="220" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="220" width="300" src="https://media.giphy.com/media/3o7btXIelzs8nBnznq/giphy.gif" />
 
 Hey there! I'm a tech enthusiast operating at the intersection of AI and computer vision. I transform complex problems into elegant algorithms – debugging reality one line of code at a time.
 
