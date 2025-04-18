@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="300" alt="tech-gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="girl-coding" />
 </div>
 
 <br/>
