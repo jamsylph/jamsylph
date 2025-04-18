@@ -19,10 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=00FFFF" alt="Profile views" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
-</p>
-
 <div align="center">
   <h2>⚡ About Me</h2>
 </div>
@@ -31,10 +27,10 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🔹_AI-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/🔹_Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/🔹_NLP-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/🔹_Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
       </td>
     </tr>
   </table>
@@ -58,16 +54,8 @@
 - 🚀 Continuously upgrading my tech stack - the future waits for no one
 - 🤖 Computer vision, RAG systems, and AI architectures are my digital playground
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
-</p>
-
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-</div>
-
-<div align="center">
-  <code>⚙️ &lt;/&gt; 📊 🧠 🔧 🖥️ 📡 🔍</code>
 </div>
 
 <details>
@@ -110,13 +98,8 @@
 </p>
 </details>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
-</p>
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <code>📈 📉 📊 🔢 📚 📋</code>
 </div>
 
 <p align="center">
@@ -128,13 +111,8 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
-</p>
-
 <div align="center">
   <h2>💼 Featured Projects</h2>
-  <code>🚀 🔬 🌟 💡 🔮 🛠️</code>
   <p><i>Pin your repositories to showcase them here!</i></p>
 </div>
 
@@ -147,13 +125,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
-</p>
-
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
-  <code>🟩🟩🟨🟨🟩🟩⬜⬜⬜🟩🟩🟨🟨🟩</code>
 </div>
 
 <div align="center">
@@ -167,11 +140,5 @@
 <br/>
 
 <div align="center">
-  <pre>
-    _________  __                  __               ____              
-   /_  __/ _ \/ /  ___ ____  ___  / /__ ___  ___  / _(_)__  ___ ___  
-    / / / // / _ \/ -_) __/ (_-< / / -_|_-< (_-< / _/ / _ \/ -_|_-<  
-   /_/ /____/_.__/\__/_/   /___//_/\__/___//___/_//_/_//_/\__/___/   
-  </pre>
   <h3>Thanks for visiting! <img src="https://img.shields.io/badge/⚡-00FFFF?style=for-the-badge&logoColor=black" /></h3>
 </div>
