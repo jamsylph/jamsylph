@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jamsylph</h1>
+# Hello, folks! I am...
+
+<h1 align="center">Jamsylph</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true&duration=1500&pause=300"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true&duration=1000&pause=200"></a>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="girl-coding" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="girl-coding" />
 </div>
+
+## About me...
+
+<table>
+<tr>
+<td width="70%">
 
 - 🔮 **Algorithm Engineer** specializing in AI and computer vision solutions
 - 💻 Love taking complex problems and making them make sense with code
@@ -14,14 +22,26 @@
 - 📊 Engineering digital solutions that transcend conventional limitations
 - ⚡ Think of my work as debugging the world, one line at a time!
 
-<h2 align="left">Tech Stack:</h2>
+</td>
+<td width="30%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="data-visualization" align="right" />
+</td>
+</tr>
+</table>
+
+## 👨‍💻 Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,mysql,vscode,linux,git,docker,vim,bash" />
   </a>
 </p>
 
-<h3 align="left">AI & Machine Learning:</h3>
+<table>
+<tr>
+<td>
+
+### AI & Machine Learning:
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -35,8 +55,11 @@
   <img src="https://img.shields.io/badge/Data_Analysis-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
 </p>
 
-<h3 align="left">Connect with me:</h3> 
-<div align="left">
+</td>
+<td>
+
+### Connect with me:
+<div>
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -45,7 +68,9 @@
   </a>
 </div>
 
-<br/>
+</td>
+</tr>
+</table>
 
 ## GitHub Stats
 
