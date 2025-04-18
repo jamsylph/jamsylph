@@ -1,7 +1,6 @@
 # 
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/209/209661.gif" width="800" alt="cyberpunk-header" />
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initiating+neural+interface...;Welcome+to+my+digital+realm;Where+reality+meets+imagination;The+future+is+already+here&font=Orbitron&center=true&width=1200&height=100&duration=2500&pause=500&color=00FFFF&size=30)](https://git.io/typing-svg)
   
@@ -34,16 +33,9 @@
         <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
       </div>
       <p align="center">
-        <code>
-        ╔══════════════════════════════════════════════════════════════════╗
-        ║                                                                  ║
-        ║  Hey! 👋 Into all things tech, especially where AI bumps into    ║
-        ║  computer vision. Love taking tricky problems and making them    ║
-        ║  make sense with code. Think of it as debugging the world,       ║
-        ║  one line at a time!                                             ║
-        ║                                                                  ║
-        ╚══════════════════════════════════════════════════════════════════╝
-        </code>
+        <blockquote>
+        <p>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</p>
+        </blockquote>
       </p>
     </td>
     <td width="40%">
