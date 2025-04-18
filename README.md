@@ -28,30 +28,35 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/q1GVITn.gif" width="700" height="200" alt="cyberpunk-banner" style="border-radius: 10px; margin: 20px 0;" />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔹_AI-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/🔹_Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/🔹_NLP-00FFFF?style=for-the-badge&logoColor=black" />
+        <img src="https://img.shields.io/badge/🔹_Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
-</div>
+<p align="center">
+  <code>
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║  Hey! 👋 Into all things tech, especially where AI bumps into    ║
+  ║  computer vision. Love taking tricky problems and making them    ║
+  ║  make sense with code. Think of it as debugging the world,       ║
+  ║  one line at a time!                                             ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+  </code>
+</p>
 
-<br/>
-
-<div style="display: flex; align-items: flex-start;">
-  <img align="right" width="250" src="https://i.imgur.com/YcPgG0N.png" alt="cyberpunk-character" />
-  
-  <div>
-    Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!
-
-    - 🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix
-    - 💻 Engineering digital solutions that transcend conventional limitations
-    - 🚀 Continuously upgrading my tech stack - the future waits for no one
-    - 🤖 Computer vision, RAG systems, and AI architectures are my digital playground
-  </div>
-</div>
+- 🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix
+- 💻 Engineering digital solutions that transcend conventional limitations
+- 🚀 Continuously upgrading my tech stack - the future waits for no one
+- 🤖 Computer vision, RAG systems, and AI architectures are my digital playground
 
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
@@ -59,7 +64,10 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="200" alt="tech-gif" />
+</div>
+
+<div align="center">
+  <code>⚙️ &lt;/&gt; 📊 🧠 🔧 🖥️ 📡 🔍</code>
 </div>
 
 <details>
@@ -108,7 +116,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://i.imgur.com/2M8XKIw.gif" width="150" alt="stats-gif" style="margin-bottom: 15px;" />
+  <code>📈 📉 📊 🔢 📚 📋</code>
 </div>
 
 <p align="center">
@@ -126,7 +134,7 @@
 
 <div align="center">
   <h2>💼 Featured Projects</h2>
-  <img src="https://i.imgur.com/LNKUwl1.gif" width="200" alt="projects-gif" style="margin-bottom: 15px;" />
+  <code>🚀 🔬 🌟 💡 🔮 🛠️</code>
   <p><i>Pin your repositories to showcase them here!</i></p>
 </div>
 
@@ -145,7 +153,7 @@
 
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
-  <img src="https://i.imgur.com/OUtpUTI.gif" width="200" alt="grid-gif" style="margin-bottom: 15px;" />
+  <code>🟩🟩🟨🟨🟩🟩⬜⬜⬜🟩🟩🟨🟨🟩</code>
 </div>
 
 <div align="center">
@@ -159,6 +167,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/XTYFJT0.gif" width="500" alt="thank-you-gif" style="margin: 20px 0;" />
+  <pre>
+    _________  __                  __               ____              
+   /_  __/ _ \/ /  ___ ____  ___  / /__ ___  ___  / _(_)__  ___ ___  
+    / / / // / _ \/ -_) __/ (_-< / / -_|_-< (_-< / _/ / _ \/ -_|_-<  
+   /_/ /____/_.__/\__/_/   /___//_/\__/___//___/_//_/_//_/\__/___/   
+  </pre>
   <h3>Thanks for visiting! <img src="https://img.shields.io/badge/⚡-00FFFF?style=for-the-badge&logoColor=black" /></h3>
 </div>
