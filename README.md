@@ -6,15 +6,15 @@
 
 <div align="right">
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="22" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="20" />
   </a>&nbsp;
   <a href="https://github.com/jamsylph" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" height="22" />
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" height="20" />
   </a>
 </div>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-- 🔮 **Algorithm Wizard** – Making computers do cool stuff
+- 🔮 Making computers do cool stuff
 - 💻 Seeing to the core of complex problems
 - 🚀 Explorer of neural networks and AI frontiers
 - 🔍 Curious tinkerer who loves trying new approaches
