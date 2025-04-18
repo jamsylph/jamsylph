@@ -38,21 +38,16 @@
   </blockquote>
 </div>
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
-        <li>💻 Engineering digital solutions that transcend conventional limitations</li>
-        <li>🚀 Continuously upgrading my tech stack - the future waits for no one</li>
-        <li>🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="300" alt="tech-gif" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="300" alt="tech-gif" />
+</div>
+
+<ul>
+  <li>🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
+  <li>💻 Engineering digital solutions that transcend conventional limitations</li>
+  <li>🚀 Continuously upgrading my tech stack - the future waits for no one</li>
+  <li>🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
+</ul>
 
 <div align="center">
   <h2>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
