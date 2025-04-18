@@ -1,10 +1,5 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=800&height=40&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Let's+stay+curious+and+take+action+for+living&center=true&duration=1500&pause=100&font=Montserrat&vCenter=true"></a>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" alt="girl-coding" />
-</div>
-
 <div align="right">
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="22" />
@@ -15,18 +10,13 @@
 </div>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-
-
-
 - 🔮 **Algorithm Wizard** – Making computers do cool stuff
-- 💻 seeing to the core of complex problems
+- 💻 Seeing to the core of complex problems
 - 🚀 Explorer of neural networks and AI frontiers
 - 🔍 Curious tinkerer who loves trying new approaches
 - 🤖 Fluent in Computer Vision, RAG, and AI
-- ⚡ Fixing the matrix one bug at a time!
 
 ## 👨‍💻 Tech Stack
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,mysql,vscode,linux,git,docker,vim,bash" />
