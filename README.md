@@ -27,9 +27,9 @@
 
 ### ⚡ About Me
 
-<img align="right" height="220" width="300" src="https://i.imgur.com/9G1I7jR.gif" />
+<img align="right" height="220" width="300" src="https://i.imgur.com/T5V9p8W.gif" />
 
-Hey there! I'm a tech enthusiast operating at the intersection of AI and computer vision. I transform complex problems into elegant algorithms – debugging reality one line of code at a time.
+Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!
 
 - 🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix
 - 💻 Engineering digital solutions that transcend conventional limitations
