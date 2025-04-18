@@ -1,11 +1,8 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=800&height=45&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Let's+stay+curious+and+take+action+for+living&center=true&duration=1000&pause=200&font=Montserrat"></a>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" alt="girl-coding" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=800&height=40&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Let's+stay+curious+and+take+action+for+living&center=true&duration=1500&pause=100&font=Montserrat&vCenter=true"></a>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" alt="girl-coding" />
 </div>
 
 <div align="right">
