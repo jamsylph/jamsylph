@@ -8,14 +8,11 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=00FFFF" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=black&labelColor=00FFFF" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/jamsylph" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8B00FF?style=for-the-badge&logo=github&logoColor=black&labelColor=00FFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-8B00FF?style=flat&logo=github&logoColor=black&labelColor=00FFFF" alt="GitHub"/>
   </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=00FFFF" alt="Profile views" />
 </div>
 
@@ -35,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <h3>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</h3>
+  <h2 style="font-size: 24px; margin: 15px 0;">Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</h2>
 </div>
 
 <br/>
@@ -50,10 +47,10 @@
   <tr style="border:none;">
     <td style="border:none; vertical-align: top;">
       <ul style="margin-top: 0;">
-        <li style="margin-bottom: 10px; font-size: 16px;">🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
-        <li style="margin-bottom: 10px; font-size: 16px;">💻 Engineering digital solutions that transcend conventional limitations</li>
-        <li style="margin-bottom: 10px; font-size: 16px;">🚀 Continuously upgrading my tech stack - the future waits for no one</li>
-        <li style="margin-bottom: 10px; font-size: 16px;">🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
+        <li style="margin-bottom: 10px; font-size: 18px;">🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
+        <li style="margin-bottom: 10px; font-size: 18px;">💻 Engineering digital solutions that transcend conventional limitations</li>
+        <li style="margin-bottom: 10px; font-size: 18px;">🚀 Continuously upgrading my tech stack - the future waits for no one</li>
+        <li style="margin-bottom: 10px; font-size: 18px;">🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
       </ul>
     </td>
   </tr>
