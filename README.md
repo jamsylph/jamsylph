@@ -2,19 +2,35 @@
 
 <div align="center">
   <img src="https://your-image-url-here.jpg" width="800" alt="Programming Theme Image"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%22The+expert+was+once+a+beginner+who+never+gave+up%22;%22Mastery+comes+from+consistency%2C+not+intensity%22;%22Doubt+kills+more+dreams+than+failure+ever+will%22;%22The+distance+between+dreams+and+reality+is+called+discipline%22&font=Inter&center=true&width=600&height=50&duration=3000&pause=1000&color=3498DB)](https://git.io/typing-svg)
 </div>
 
-##### `[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jamsylph)` `[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jamsylph)` `[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/your-id)`
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%22The+expert+was+once+a+beginner+who+never+gave+up%22;%22Mastery+comes+from+consistency%2C+not+intensity%22;%22Doubt+kills+more+dreams+than+failure+ever+will%22;%22The+distance+between+dreams+and+reality+is+called+discipline%22&font=Inter&center=true&width=750&height=60&duration=3000&pause=1000&color=3498DB)](https://git.io/typing-svg)
+  
+</div>
 
- Hi, I'm Jam Sylph, Machine Learning & Computer Vision Engineer from [Your Location]
+<div align="center">
+  <a href="https://linkedin.com/in/jamsylph">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jamsylph">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your-id">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</div>
 
- 🔬 I'm passionate about Machine Learning, Computer Vision and NLP solutions
- 💻 I specialize in developing AI-driven applications and algorithms
- 🌱 I'm currently learning advanced AI techniques and algorithms
- 🔍 Experienced with object detection, segmentation, and RAG
- 📫 How to reach me: [your email or contact method]
+<br>
+
+Hi, I'm Jam Sylph, Machine Learning & Computer Vision Engineer from [Your Location]
+
+- 🔬 I'm passionate about Machine Learning, Computer Vision and NLP solutions
+- 💻 I specialize in developing AI-driven applications and algorithms
+- 🌱 I'm currently learning advanced AI techniques and algorithms
+- 🔍 Experienced with object detection, segmentation, and RAG
+- 📫 How to reach me: [your email or contact method]
 
 ---
 
