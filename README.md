@@ -48,16 +48,13 @@
 
 <table border="0" style="border:none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border:none;">
-    <td width="60%" style="border:none; vertical-align: top; padding-right: 20px;">
+    <td style="border:none; vertical-align: top;">
       <ul style="margin-top: 0;">
         <li style="margin-bottom: 10px; font-size: 16px;">🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
         <li style="margin-bottom: 10px; font-size: 16px;">💻 Engineering digital solutions that transcend conventional limitations</li>
         <li style="margin-bottom: 10px; font-size: 16px;">🚀 Continuously upgrading my tech stack - the future waits for no one</li>
         <li style="margin-bottom: 10px; font-size: 16px;">🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
       </ul>
-    </td>
-    <td width="40%" align="center" style="border:none;">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" />
     </td>
   </tr>
 </table>
