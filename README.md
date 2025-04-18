@@ -1,5 +1,9 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-PROGRESS+DAILY%2C+ACTION+DRIVEN+BY+CURIOSITY-00FFFF?style=for-the-badge&logoColor=white" />
+</div>
+
 <div align="right">
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="22" />
@@ -36,10 +40,6 @@
   <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Data_Analysis-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-PROGRESS+DAILY%2C+ACTION+DRIVEN+BY+CURIOSITY-00FFFF?style=for-the-badge&logoColor=white" />
-</div>
 
 <br>
 
