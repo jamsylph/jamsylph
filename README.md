@@ -66,10 +66,7 @@
   <h1>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 </div>
 
-<br/>
-
-## 👉 Programming Languages & Frameworks
-
+<h3 align="center">Programming Languages & Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -81,10 +78,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
 </p>
 
-<br/>
-
-## 👉 AI & Machine Learning
-
+<h3 align="center">AI & Machine Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -94,10 +88,7 @@
   <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
 </p>
 
-<br/>
-
-## 👉 Tools & Utilities
-
+<h3 align="center">Tools & Utilities</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -105,8 +96,6 @@
   <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
 </p>
-
-<br/>
 
 <div align="center">
   <h1>📊 GitHub Stats</h1>
