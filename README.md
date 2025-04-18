@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Embracing+curiosity+and+creativity;Building+a+better+future+with+code&font=Pacifico&center=true&width=900&height=150&duration=5000&pause=2000&color=58A6FF&size=36)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Embracing+curiosity+and+creativity;Building+a+better+future+with+code&font=Pacifico&center=true&width=1000&height=180&duration=3500&pause=1000&color=FF69B4&size=40)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=58A6FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=FF69B4" alt="Profile views" />
 </div>
 
 <br>
@@ -31,11 +31,11 @@
 
 Hey there! I'm a tech enthusiast who loves playing with AI and computer vision. I get a kick out of turning puzzling problems into cool solutions - it's like solving fun puzzles every day!
 
-- 🔮 Exploring the magic of ML, CV, and NLP - always curious!
-- 💻 Building stuff that actually helps people (and having fun while doing it!)
-- 🚀 Forever learning new tech tricks - the geek in me never sleeps
-- 🎯 Object detection, RAG, and other fun AI toys are my playground
-- 📫 Wanna chat? [drop me a line!]
+- 🦋 Exploring the magic of ML, CV, and NLP - always curious!
+- 💖 Building creative solutions that help people (and having fun while doing it!)
+- ✨ Forever learning new tech tricks - the creative spark never fades
+- 🎨 Object detection, RAG, and other AI tools are my creative canvas
+- 💌 Wanna chat? [drop me a line!]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" />
@@ -89,12 +89,12 @@ Hey there! I'm a tech enthusiast who loves playing with AI and computer vision. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsylph&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamsylph&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=tokyonight" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
@@ -111,10 +111,10 @@ Hey there! I'm a tech enthusiast who loves playing with AI and computer vision. 
 
 <p align="center">
   <a href="https://github.com/jamsylph/your-project-1">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-1&theme=tokyonight&hide_border=true" />
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-1&theme=dracula&hide_border=true" />
   </a>
   <a href="https://github.com/jamsylph/your-project-2">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-2&theme=tokyonight&hide_border=true" />
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-2&theme=dracula&hide_border=true" />
   </a>
 </p>
 
@@ -180,5 +180,5 @@ jobs:
 -->
 
 <div align="center">
-  <h3>Thanks for visiting! 👋</h3>
+  <h3>Thanks for visiting! 💕</h3>
 </div>
