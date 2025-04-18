@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Machine+Learning+%26+Computer+Vision+Engineer;Nice+to+meet+you!+Let's+connect;Passionate+about+AI+and+problem+solving&font=Pacifico&center=true&width=750&height=60&duration=3000&pause=1000&color=58A6FF)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Machine+Learning+%26+Computer+Vision+Engineer;Nice+to+meet+you!+Let's+connect;Passionate+about+AI+and+problem+solving&font=Pacifico&center=true&width=850&height=120&duration=4000&pause=1500&color=58A6FF&size=30)](https://git.io/typing-svg)
   
 </div>
 
@@ -106,6 +106,12 @@ I'm a Machine Learning & Computer Vision Engineer passionate about creating inte
 
 ## 💼 Projects
 
+<!-- 
+  Projects will automatically update when you create or pin repositories on your GitHub profile.
+  The cards below will show your pinned repositories.
+  To update this section, simply create new repositories or pin existing ones.
+-->
+
 <p align="center">
   <a href="https://github.com/jamsylph/your-project-1">
     <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-1&theme=tokyonight&hide_border=true" />
@@ -119,9 +125,62 @@ I'm a Machine Learning & Computer Vision Engineer passionate about creating inte
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" />
 </p>
 
+<!-- 
+  贪吃蛇动画需要设置一个特定的GitHub Actions工作流。
+  要启用它，请按照以下步骤操作：
+  1. 在您的GitHub仓库中创建 .github/workflows 目录
+  2. 在该目录中创建一个名为 snake.yml 的文件，内容如下
+-->
+
+## 🐍 Contribution Graph
+
+<!-- 
+  此图表将显示您的GitHub贡献活动，以贪吃蛇动画的形式展示。
+  请先按照上述说明设置工作流，动画才能正常工作。
+-->
+
 <div align="center">
-  <img src="https://github.com/jamsylph/jamsylph/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<!-- 
+  要在您的个人资料中启用贪吃蛇动画，您需要创建以下文件：
+  文件路径: .github/workflows/snake.yml
+  文件内容:
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # 每12小时运行一次
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 <div align="center">
   <h3>Thanks for visiting! 👋</h3>
