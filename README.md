@@ -27,7 +27,7 @@
 
 ### ⚡ About Me
 
-<img align="right" height="220" width="300" src="https://i.imgur.com/T5V9p8W.gif" />
+<img align="right" height="220" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!
 
@@ -50,6 +50,7 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
