@@ -2,19 +2,16 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Machine+Learning+%26+Computer+Vision+Engineer;Nice+to+meet+you!+Let's+connect;Passionate+about+AI+and+problem+solving&font=Pacifico&center=true&width=850&height=120&duration=4000&pause=1500&color=58A6FF&size=30)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Jam+Sylph+👋;Embracing+curiosity+and+creativity;Building+a+better+future+with+code&font=Pacifico&center=true&width=900&height=150&duration=5000&pause=2000&color=58A6FF&size=36)](https://git.io/typing-svg)
   
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/jamsylph" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jamsylph" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" alt="Stack Overflow"/>
   </a>
 </div>
 
@@ -32,13 +29,13 @@
 
 <img align="right" height="220" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-I'm a Machine Learning & Computer Vision Engineer passionate about creating intelligent solutions. With expertise in AI algorithms and computer vision, I love turning complex problems into elegant solutions.
+Hey there! I'm a tech enthusiast who loves playing with AI and computer vision. I get a kick out of turning puzzling problems into cool solutions - it's like solving fun puzzles every day!
 
-- 🔬 Working on ML, Computer Vision, and NLP projects
-- 💻 Building AI-driven applications that make a difference
-- 🌱 Currently exploring advanced deep learning techniques
-- 🔍 Experienced with object detection, segmentation, and RAG
-- 📫 Reach me at: [your email or contact method]
+- 🔮 Exploring the magic of ML, CV, and NLP - always curious!
+- 💻 Building stuff that actually helps people (and having fun while doing it!)
+- 🚀 Forever learning new tech tricks - the geek in me never sleeps
+- 🎯 Object detection, RAG, and other fun AI toys are my playground
+- 📫 Wanna chat? [drop me a line!]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" />
