@@ -23,79 +23,86 @@
   <h2>⚡ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logoColor=black" />
-        <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
-      </div>
-      <p align="center">
-        <blockquote>
-        <p>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</p>
-        </blockquote>
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="100%" alt="tech-gif" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
+</div>
 
-- 🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix
-- 💻 Engineering digital solutions that transcend conventional limitations
-- 🚀 Continuously upgrading my tech stack - the future waits for no one
-- 🤖 Computer vision, RAG systems, and AI architectures are my digital playground
+<br/>
+
+<div align="center">
+  <blockquote>
+    <p>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</p>
+  </blockquote>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="400" alt="tech-gif" />
+</div>
+
+<div align="center">
+  <ul style="list-style-position: inside; text-align: center; padding-left: 0;">
+    <li>🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
+    <li>💻 Engineering digital solutions that transcend conventional limitations</li>
+    <li>🚀 Continuously upgrading my tech stack - the future waits for no one</li>
+    <li>🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
+  </ul>
+</div>
 
 <div align="center">
   <h2>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 </div>
 
-<details>
-<summary><b>👉 Programming Languages & Frameworks</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
+<table>
+  <tr>
+    <td width="70%">
+      <details>
+      <summary><b>👉 Programming Languages & Frameworks</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
 
-<details>
-<summary><b>👉 AI & Machine Learning</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
+      <details>
+      <summary><b>👉 AI & Machine Learning</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
 
-<details>
-<summary><b>👉 Tools & Utilities</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="data-analysis" />
-</div>
+      <details>
+      <summary><b>👉 Tools & Utilities</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
+    </td>
+    <td width="30%" align="right" valign="top">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -108,20 +115,6 @@
 
 <p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=radical" />
-</p>
-
-<div align="center">
-  <h2>💼 Featured Projects</h2>
-  <p><i>Pin your repositories to showcase them here!</i></p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/jamsylph/your-project-1">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/jamsylph/your-project-2">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jamsylph&repo=your-project-2&theme=radical&hide_border=true" />
-  </a>
 </p>
 
 <div align="center">
