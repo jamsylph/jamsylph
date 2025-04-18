@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%3C%2F%3E%20DIGITAL%20FOOTPRINT%20%3C%2F%3E-00FFFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PROGRESS+DAILY%2C+ACTION+DRIVEN+BY+CURIOSITY-00FFFF?style=for-the-badge&logoColor=white" />
 </div>
 
 <br>
