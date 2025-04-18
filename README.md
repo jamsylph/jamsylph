@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://your-image-url-here.jpg" width="800" alt="Programming Theme Image"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%22The+expert+was+once+a+beginner+who+never+gave+up%22;%22Mastery+comes+from+consistency%2C+not+intensity%22;%22Doubt+kills+more+dreams+than+failure+ever+will%22;%22The+distance+between+dreams+and+reality+is+called+discipline%22&font=Inter&center=true&width=600&height=50&duration=3000&pause=1000&color=3498DB)](https://git.io/typing-svg)
 </div>
 
 ##### `[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jamsylph)` `[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jamsylph)` `[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/your-id)`
