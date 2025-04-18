@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initiating+neural+interface...;Welcome+to+my+digital+realm;Where+reality+meets+imagination;The+future+is+already+here&font=Fira+Code&center=true&width=1200&height=180&duration=2500&pause=500&color=00FFFF&size=36)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Initiating+neural+interface...;Welcome+to+my+digital+realm;Where+reality+meets+imagination;The+future+is+already+here&font=Orbitron&center=true&width=1200&height=180&duration=2500&pause=500&color=00FFFF&size=36)](https://git.io/typing-svg)
   
 </div>
 
@@ -19,15 +19,22 @@
   <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=00FFFF" alt="Profile views" />
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
 </p>
 
-### ⚡ About Me
+<div align="center">
+  <h2>⚡ About Me</h2>
+</div>
 
-<img align="right" height="220" width="300" src="https://media.giphy.com/media/3o7qSQvTyU2ChKMLkY/giphy.gif" />
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithm_Engineer-00FFFF?style=for-the-badge&logoColor=black" />
+</div>
+
+<br/>
 
 Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!
 
@@ -40,10 +47,12 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
 </p>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
 
 <details>
-<summary>👉 Programming Languages & Frameworks</summary>
+<summary><b>👉 Programming Languages & Frameworks</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -58,7 +67,7 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
 </details>
 
 <details>
-<summary>👉 AI & Machine Learning</summary>
+<summary><b>👉 AI & Machine Learning</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -71,7 +80,7 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
 </details>
 
 <details>
-<summary>👉 Tools & Utilities</summary>
+<summary><b>👉 Tools & Utilities</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
@@ -86,7 +95,9 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
 </p>
 
-## 📊 GitHub Stats
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
@@ -101,13 +112,10 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
 </p>
 
-## 💼 Projects
-
-<!-- 
-  Projects will automatically update when you create or pin repositories on your GitHub profile.
-  The cards below will show your pinned repositories.
-  To update this section, simply create new repositories or pin existing ones.
--->
+<div align="center">
+  <h2>💼 Featured Projects</h2>
+  <p><i>Pin your repositories to showcase them here!</i></p>
+</div>
 
 <p align="center">
   <a href="https://github.com/jamsylph/your-project-1">
@@ -122,19 +130,9 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   <img src="https://i.imgur.com/waxVImv.png" alt="cyberpunk-divider" />
 </p>
 
-<!-- 
-  贪吃蛇动画需要设置一个特定的GitHub Actions工作流。
-  要启用它，请按照以下步骤操作：
-  1. 在您的GitHub仓库中创建 .github/workflows 目录
-  2. 在该目录中创建一个名为 snake.yml 的文件，内容如下
--->
-
-## 🐍 Contribution Graph
-
-<!-- 
-  此图表将显示您的GitHub贡献活动，以贪吃蛇动画的形式展示。
-  请先按照上述说明设置工作流，动画才能正常工作。
--->
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+</div>
 
 <div align="center">
   <picture>
@@ -144,41 +142,8 @@ Hey! 👋 Into all things tech, especially where AI bumps into computer vision. 
   </picture>
 </div>
 
-<!-- 
-  要在您的个人资料中启用贪吃蛇动画，您需要创建以下文件：
-  文件路径: .github/workflows/snake.yml
-  文件内容:
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # 每12小时运行一次
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+<br/>
 
 <div align="center">
-  <h3>Thanks for visiting! ⚡</h3>
+  <h3>Thanks for visiting! <img src="https://img.shields.io/badge/⚡-00FFFF?style=for-the-badge&logoColor=black" /></h3>
 </div>
