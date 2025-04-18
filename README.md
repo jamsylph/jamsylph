@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Algorithm+Engineer;AI+%26+Computer+Vision;NLP+%26+Deep+Learning;Where+Reality+Meets+Imagination&center=true&duration=1000&pause=200&font=Fira%20Code"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=380&height=45&lines=Hi+there%2C+I'm+Jamsylph;Welcome+to+my+digital+space;Let's+stay+curious+and+take+action+for+tomorrow&center=true&duration=1000&pause=200&font=Fira%20Code"></a>
 </p>
 
 <div align="center">
@@ -17,16 +17,16 @@
   </a>
 </div>
 
-## About me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
+## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="360px"/>
 
-- 🔮 **Algorithm Engineer** specializing in AI and computer vision solutions
-- 💻 Love taking complex problems and making them make sense with code
-- 🚀 Continuously exploring the neural networks of ML, CV, and NLP - hacking the matrix
-- 🔍 Curious mind always seeking innovative approaches to challenging problems
-- 🤖 Skilled in computer vision, RAG systems, and cutting-edge AI architectures
-- ⚡ Think of my work as debugging the world, one line at a time!
+- 🔮 **Algorithm Wizard** – Making computers do cool stuff
+- 💻 seeing to the core of complex problems
+- 🚀 Explorer of neural networks and AI frontiers
+- 🔍 Curious tinkerer who loves trying new approaches
+- 🤖 Fluent in Computer Vision, RAG, and AI
+- ⚡ Fixing the matrix one bug at a time!
 
 ## 👨‍💻 Tech Stack
 
