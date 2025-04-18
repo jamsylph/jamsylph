@@ -19,8 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=jamsylph&style=flat-square&color=00FFFF" alt="Profile views" />
 </div>
 
+<br/>
+
 <div align="center">
-  <h2>⚡ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+  <h1>⚡ About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"></h1>
 </div>
 
 <div align="center">
@@ -33,29 +35,38 @@
 <br/>
 
 <div align="center">
-  <blockquote>
-    <p>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</p>
-  </blockquote>
+  <h3>Hey! 👋 Into all things tech, especially where AI bumps into computer vision. Love taking tricky problems and making them make sense with code. Think of it as debugging the world, one line at a time!</h3>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/PlnQNcQ4RYOhG/giphy.gif" width="300" alt="tech-gif" />
 </div>
 
-<ul>
-  <li>🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
-  <li>💻 Engineering digital solutions that transcend conventional limitations</li>
-  <li>🚀 Continuously upgrading my tech stack - the future waits for no one</li>
-  <li>🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
-</ul>
+<br/>
+
+<table border="0" style="border:none; border-collapse: collapse; margin-bottom: 30px;">
+  <tr style="border:none;">
+    <td width="60%" style="border:none; vertical-align: top; padding-right: 20px;">
+      <ul style="margin-top: 0;">
+        <li style="margin-bottom: 10px; font-size: 16px;">🔮 Exploring the neural networks of ML, CV, and NLP - hacking the matrix</li>
+        <li style="margin-bottom: 10px; font-size: 16px;">💻 Engineering digital solutions that transcend conventional limitations</li>
+        <li style="margin-bottom: 10px; font-size: 16px;">🚀 Continuously upgrading my tech stack - the future waits for no one</li>
+        <li style="margin-bottom: 10px; font-size: 16px;">🤖 Computer vision, RAG systems, and AI architectures are my digital playground</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="border:none;">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <h2>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+  <h1>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" />
-</div>
+<br/>
 
 ## 👉 Programming Languages & Frameworks
 
@@ -70,6 +81,8 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
 </p>
 
+<br/>
+
 ## 👉 AI & Machine Learning
 
 <p align="center">
@@ -81,6 +94,8 @@
   <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
 </p>
 
+<br/>
+
 ## 👉 Tools & Utilities
 
 <p align="center">
@@ -91,8 +106,10 @@
   <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
 </p>
 
+<br/>
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h1>📊 GitHub Stats</h1>
 </div>
 
 <p align="center">
@@ -105,7 +122,7 @@
 </p>
 
 <div align="center">
-  <h2>🐍 Contribution Graph</h2>
+  <h1>🐍 Contribution Graph</h1>
 </div>
 
 <div align="center">
@@ -120,5 +137,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-  <h3>Thanks for visiting! <img src="https://img.shields.io/badge/⚡-00FFFF?style=for-the-badge&logoColor=black" /></h3>
+  <h2>Thanks for visiting! <img src="https://img.shields.io/badge/⚡-00FFFF?style=for-the-badge&logoColor=black" /></h2>
 </div>
