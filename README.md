@@ -58,49 +58,54 @@
   <h2>🛠️ Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" style="float: right; margin-left: 20px;" />
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <details>
+      <summary><b>👉 Programming Languages & Frameworks</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
 
-<details>
-<summary><b>👉 Programming Languages & Frameworks</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
+      <details>
+      <summary><b>👉 AI & Machine Learning</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
 
-<details>
-<summary><b>👉 AI & Machine Learning</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
-
-<details>
-<summary><b>👉 Tools & Utilities</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
-</p>
-</details>
+      <details>
+      <summary><b>👉 Tools & Utilities</b></summary>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Data_Annotation-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LabelMe-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/LabelImg-FFA500?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/CVAT-00AEFF?style=for-the-badge&logo=opencv&logoColor=black&labelColor=00FFFF" />&nbsp;
+        <img src="https://img.shields.io/badge/Stata-3776AB?style=for-the-badge&logo=stata&logoColor=black&labelColor=00FFFF" />
+      </p>
+      </details>
+    </td>
+    <td width="30%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="data-analysis" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
