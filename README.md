@@ -5,7 +5,7 @@
 </div>
 
 <p align="right">
-  <a href="https://linkedin.com/in/jamsylph" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/jamsylph" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://jamsylph.top/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" /></a><a href="https://github.com/jamsylph" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
