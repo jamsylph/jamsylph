@@ -52,24 +52,13 @@
 <br>
 
 <div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=jamsylph&theme=radical&hide_border=true&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF)
-  
+  <img src="https://github-readme-stats-silk-two.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide=issues,contribs" />
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&hide=contribs,issues" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&hide_border=true&layout=compact&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-silk-two.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
 </div>
 
 <br>
