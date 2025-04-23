@@ -51,14 +51,21 @@
 
 <br>
 
+<!-- 移除所有动态统计卡片，用静态内容替代 -->
 <div align="center">
-  <img src="https://github-readme-stats-silk-two.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide=issues,contribs" />
+  <h3>Skills Distribution</h3>
+  <img src="https://img.shields.io/badge/Python-60%25-00FFFF?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-20%25-00FFFF?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Other_Skills-20%25-00FFFF?style=for-the-badge" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-silk-two.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+  <h3>Focus Areas</h3>
+  <img src="https://img.shields.io/badge/Computer_Vision-★★★★★-FF00FF?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Machine_Learning-★★★★★-FF00FF?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/RAG-★★★★☆-FF00FF?style=for-the-badge" />
 </div>
 
 <br>
