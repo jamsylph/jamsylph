@@ -105,6 +105,4 @@
   <img src="https://komarev.com/ghpvc/?username=jamsylph&color=00FFFF" />
 </p>
 
-<br>
-
 ⭐️ From [jamsylph](https://github.com/jamsylph)
