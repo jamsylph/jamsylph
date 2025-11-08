@@ -28,28 +28,6 @@
 
 <br>
 
-### AI & Machine Learning:
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-4B8BBE?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/NLP-9CF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Object_Detection-CD5C5C?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-8B00FF?style=for-the-badge&logoColor=black&labelColor=00FFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/Data_Analysis-25A162?style=for-the-badge&logoColor=black&labelColor=00FFFF" />
-</p>
-
-<br><br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_EXPERTISE-ALGORITHMS-00FFFF?style=for-the-badge&logo=python" alt="AI Algorithms" />
-  <img src="https://img.shields.io/badge/RESEARCH-ONGOING-00FFFF?style=for-the-badge&logo=tensorflow" alt="Research" />
-</div>
-
-<br>
 
 ## 🔥 Keep the Momentum
 
