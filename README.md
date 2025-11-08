@@ -11,7 +11,7 @@
 <br>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-热爱技术，热爱创造，热爱产品，热爱生活
+Passionate about Technology, Creation, Products, and Life
 
 <br>
 
