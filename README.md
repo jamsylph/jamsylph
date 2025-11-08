@@ -89,16 +89,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jamsylph/jamsylph/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br><br>
-
 ## Areas of Interest
 - 📊 **Machine Learning Algorithms** - Understanding theoretical foundations and practical implementations
 - 🔍 **Computer Vision Systems** - Object detection, segmentation and tracking solutions
