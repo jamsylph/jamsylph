@@ -11,11 +11,7 @@
 <br>
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-- 🔮 Making computers do cool stuff
-- 💻 Seeing to the core of complex problems
-- 🚀 Explorer of neural networks and AI frontiers
-- 🔍 Curious tinkerer who loves trying new approaches
-- 🤖 Fluent in Computer Vision, RAG, and AI
+热爱技术，热爱创造，热爱产品，热爱生活
 
 <br>
 
