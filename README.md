@@ -58,31 +58,19 @@
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jamsylph&theme=highcontrast&hide_border=true&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&fire=FF00FF&ring=00FFFF&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jamsylph&theme=default&hide_border=true&currStreakLabel=0969DA&fire=BF40BF&ring=0969DA&background=FFFFFF" />
-    <img src="https://streak-stats.demolab.com?user=jamsylph&theme=default&hide_border=true" alt="GitHub streak graph" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=jamsylph&theme=transparent&hide_border=true&currStreakLabel=00FFFF&fire=FF00FF&ring=00FFFF&stroke=00FFFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=BF40BF" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&theme=default" alt="GitHub contribution stats" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&theme=transparent&title_color=00FFFF&text_color=c9d1d9&icon_color=FF00FF" alt="GitHub contribution stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&theme=transparent&title_color=00FFFF&text_color=c9d1d9" alt="Most used languages" />
 </div>
 
 <br>
