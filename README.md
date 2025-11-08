@@ -1,17 +1,12 @@
 # Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=PROGRESS+DAILY;ACTION+DRIVEN+BY+CURIOSITY" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <em>Passionate about Technology, Creation, Products, and Life</em>
+</p>
 
 <p align="right">
   <a href="https://jamsylph.top/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Personal Website" /></a><a href="https://github.com/jamsylph" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<br>
-
-## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-Passionate about Technology, Creation, Products, and Life
 
 <br>
 
