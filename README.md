@@ -59,17 +59,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jamsylph&theme=transparent&hide_border=true&currStreakLabel=00FFFF&fire=FF00FF&ring=00FFFF&stroke=00FFFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak graph" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&theme=transparent&title_color=00FFFF&text_color=c9d1d9&icon_color=FF00FF" alt="GitHub contribution stats" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&theme=transparent&title_color=00FFFF&text_color=c9d1d9" alt="Most used languages" />
 </div>
 
