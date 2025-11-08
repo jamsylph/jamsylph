@@ -78,20 +78,6 @@
 
 <br>
 
-## Areas of Interest
-- 📊 **Machine Learning Algorithms** - Understanding theoretical foundations and practical implementations
-- 🔍 **Computer Vision Systems** - Object detection, segmentation and tracking solutions
-- 🧠 **AI Applications** - Applying AI to solve real-world problems across domains
-
-<br>
-
-## Learning Focus
-- 🧠 Exploring large language models for complex reasoning tasks
-- 🔄 Researching RAG technologies for domain-specific knowledge retrieval
-- 🖼️ Developing multimodal systems combining computer vision and NLP
-
-<br>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jamsylph&color=00FFFF" />
 </p>
