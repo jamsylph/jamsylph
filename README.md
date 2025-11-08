@@ -51,14 +51,26 @@
 
 <br>
 
+## 🔥 Keep the Momentum
+
+<p align="center">
+  <em>Every contribution counts — stay curious and ship the next experiment.</em>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats-silk-two.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&hide=issues,contribs" />
+  <img src="https://streak-stats.demolab.com?user=jamsylph&theme=highcontrast&hide_border=true&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&fire=FF00FF&ring=00FFFF&background=0D1117" alt="GitHub streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-silk-two.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamsylph&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF" alt="GitHub contribution stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Most used languages" />
 </div>
 
 <br>
