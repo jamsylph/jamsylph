@@ -1,32 +1,32 @@
-   name: Generate Snake Animation
+name: Generate Snake Animation
 
-   on:
-     schedule:
-       # Runs every 12 hours
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-   jobs:
-     build:
-       name: Snake Animation
-       runs-on: ubuntu-latest
-       permissions:
-         contents: write
-       steps:
-         # Snake Animation
-         - uses: actions/checkout@v3
-         
-         - uses: Platane/snk@v3
-           id: snake-gif
-           with:
-             github_user_name: jamsylph
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+  build:
+    name: Snake Animation
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Snake Animation
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: jamsylph
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#0D1117,#24292f,#1F6FEB,#39D353
+      
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
