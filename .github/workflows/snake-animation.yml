@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: jamsylph
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0969DA&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#0D1117,#24292f,#1F6FEB,#39D353
       
       - uses: crazy-max/ghaction-github-pages@v3
