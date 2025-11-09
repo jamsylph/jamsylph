@@ -10,15 +10,6 @@
 
 <br>
 
-## 👨‍💻 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,mysql,vscode,linux,git,docker,vim,bash" />
-  </a>
-</p>
-
-<br>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jamsylph&theme=transparent&hide_border=true&currStreakLabel=00FFFF&fire=FF00FF&ring=00FFFF&stroke=00FFFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamsylph&layout=compact&hide_border=true&theme=transparent&title_color=00FFFF&text_color=c9d1d9" alt="Most used languages" />
