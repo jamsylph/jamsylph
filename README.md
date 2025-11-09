@@ -26,20 +26,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/jamsylph?tab=repositories" title="Explore repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-7+-00FFFF?style=for-the-badge&logo=github" alt="repositories" />
-  </a>
-  <a href="https://github.com/jamsylph?tab=stars">
-    <img src="https://img.shields.io/badge/STARS-90+-00FFFF?style=for-the-badge&logo=github" alt="stars" />
-  </a>
-  <a href="https://github.com/jamsylph">
-    <img src="https://img.shields.io/badge/TECH_STACK-DIVERSE-FF00FF?style=for-the-badge&logo=tensorflow" alt="Tech Stack" />
-  </a>
-</div>
-
-<br>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jamsylph&color=00FFFF" />
 </p>
